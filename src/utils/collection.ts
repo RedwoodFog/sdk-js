@@ -2,7 +2,7 @@
  * @module utils
  */
 
-export const DIRECTUS_COLLECTION_PREFIX = "directus_";
+export const DIRECTUS_COLLECTION_PREFIX = "naikinto_";
 
 /**
  * Returns the correct API path for the collection. It will
