@@ -1,6 +1,6 @@
 {
-  "name": "@directus/sdk-js",
-  "version": "6.0.8",
+  "name": "@RedwoodFog/sdk-js",
+  "version": "6.0.5.1",
   "description": "Directus SDK for JavaScript (Node and Browser)",
   "keywords": [
     "api",
@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/directus/directus-sdk-js/issues"
   },
-  "repository": "directus/sdk-js",
+  "repository": "RedwoodFog/sdk-js",
   "license": "MIT",
   "author": "RANGER Studio LLC",
   "contributors": [
